@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\bin\Debug\DB.mdf
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\bin\Debug\DB_log.ldf
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form2.resources
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form3.resources
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form4.resources
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\User\Desktop\курсач сони\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\bin\Debug\DB.mdf
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\bin\Debug\DB_log.ldf
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form2.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form3.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form4.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\User\Desktop\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
